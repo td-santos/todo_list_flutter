@@ -1,16 +1,42 @@
-# my_todolist
+# todo_list_flutter
 
-A new Flutter application.
+ Todo List desenvolvido em Flutter.
+ <div align="center">
+  
+ <img  width="200" height="400" src="assets/imagens/prints/tela_1.png"><span style="padding-left:2px"></span>
+ <img  width="200" height="400" src="assets/imagens/prints/Tela_2.png"><span style="padding-left:2px"></span>
+ <img  width="200" height="400" src="assets/imagens/prints/tela_3.png"><span style="padding-left:2px"></span>
+ <img  width="200" height="400" src="assets/imagens/prints/tela_4.png"><span style="padding-left:2px"></span>
+ </div>
+ <br><br>
+ 
+ 
 
-## Getting Started
+# O App aborda:
 
-This project is a starting point for a Flutter application.
+UI Design
 
-A few resources to get you started if this is your first Flutter project:
+    • Containers decorations(Gradient colors, BoxShadow...)
+  
+    • ListView.
+  
+    • GridView.
+  
+    • AlertDialog Customizado.
+  
+                        
+Manipulação de dados:.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+    • Shared preferences.
+  
+    • SqFlite.
+  
+  
+Animations.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    • FadeIn Animation.
+ 
+
+ 
+
+ 
